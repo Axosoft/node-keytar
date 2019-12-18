@@ -1,7 +1,7 @@
 {
   "main": "./lib/keytar.js",
   "typings": "keytar.d.ts",
-  "name": "keytar",
+  "name": "@axosoft/keytar",
   "description": "Bindings to native Mac/Linux/Windows password APIs",
   "version": "5.0.0",
   "license": "MIT",
